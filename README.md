@@ -32,6 +32,9 @@ This repo runs a CI/CD pipeline in GitHub Action to deploy a Lambda function in 
 - installing the dependencies required to perform the deployment
 - perform an automated unit-testing to check for errors
 - performing a vulnerability scan
+
+  ![Screenshot 2023-09-03 at 4 06 50 PM](https://github.com/vincent8055/3.14_package_scan/assets/127754761/9f914def-6dda-4a7e-a333-d549d1fccf8c)
+
 - displaying the secrets from AWS Secrets Parameter Store
 - deploying the Lambda function into AWS
 4. Install node dependencies such as node, serverless, serveless-offline, jest
